@@ -13,6 +13,10 @@
 
  #DEFAULT db connection settings
  # --- WARNING! --- if you set defaults - it's recommended to set $ACCESS_PWD to protect your db!
+
+ /*Testing git*/
+
+ 
  $DBDEF=array(
  'user'=>"admin_admin_om",#required
  'pwd'=>"admin_om", #required
